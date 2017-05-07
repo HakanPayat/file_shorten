@@ -1,0 +1,6 @@
+[package]
+name = "file_shorten"
+version = "0.1.0"
+authors = ["Hakan Payat <hakanpyt@gmail.com>"]
+
+[dependencies]
